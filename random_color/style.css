@@ -1,0 +1,14 @@
+body {
+  transition: all .960s ease;
+ }
+ h1 {
+   font-family: Verdana;
+   
+   text-align: center; 
+ }
+
+
+
+.form_wrapper {
+    font-size: 55px;
+}
